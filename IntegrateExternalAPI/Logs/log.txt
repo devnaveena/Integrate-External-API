@@ -1,0 +1,1103 @@
+2023-04-25 12:04:21.8618|INFO|IntegrateExternalAPI.Service.ExternalApiService|Getting all user details
+2023-04-25 12:04:30.7126|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188493
+2023-04-25 12:04:30.7126|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1197332
+2023-04-25 12:04:30.7126|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188495
+2023-04-25 12:04:30.7126|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188494
+2023-04-25 12:04:30.7126|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188492
+2023-04-25 12:04:30.7126|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188490
+2023-04-25 12:04:30.7126|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188489
+2023-04-25 12:04:30.7126|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188491
+2023-04-25 12:04:30.7252|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188488
+2023-04-25 12:04:30.7438|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188487
+2023-04-25 12:04:31.4727|INFO|IntegrateExternalAPI.Service.ExternalApiService|Generating Random post for a user
+2023-04-25 12:04:37.3550|INFO|IntegrateExternalAPI.Service.ExternalApiService|Generating Random Comments for a user
+2023-04-25 12:04:37.4309|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188488 from endpoint users and resource posts
+2023-04-25 12:04:37.5162|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:04:37.5162|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:04:37.5162|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:04:37.5162|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:04:37.5529|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:04:37.5529|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:04:37.5529|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:04:37.5529|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:04:37.5789|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:04:37.5789|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:04:37.5789|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:04:37.5789|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:04:37.6326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:04:37.6326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:04:37.6326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:04:37.6326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:04:37.6326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:04:37.6326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:04:37.6813|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:04:37.7606|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188488 from endpoint users and resource posts
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:04:37.8009|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:04:37.9660|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188488 from endpoint users and resource posts
+2023-04-25 12:04:38.2928|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188488 from endpoint users and resource posts
+2023-04-25 12:04:38.3910|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:38.4719|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188488 from endpoint users and resource posts
+2023-04-25 12:04:38.4719|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188495/posts
+2023-04-25 12:04:38.4719|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15170/comments
+2023-04-25 12:04:38.6165|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:38.6165|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188489/posts
+2023-04-25 12:04:38.6165|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15164/comments
+2023-04-25 12:04:38.7019|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15326 from endpoint posts and resource comments
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:04:38.7345|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:04:38.7673|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188487/posts
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15163/comments
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15162/comments
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:04:38.8371|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:04:38.8835|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15326 from endpoint posts and resource comments
+2023-04-25 12:04:39.0097|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:39.0624|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15326 from endpoint posts and resource comments
+2023-04-25 12:04:39.2509|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:39.2509|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188493/posts
+2023-04-25 12:04:39.2509|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15169/comments
+2023-04-25 12:04:39.3265|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15326 from endpoint posts and resource comments
+2023-04-25 12:04:39.4257|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:39.5120|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15326 from endpoint posts and resource comments
+2023-04-25 12:04:39.6784|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:39.7489|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15326 from endpoint posts and resource comments
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:04:39.8536|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:04:39.9439|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15326 from endpoint posts and resource comments
+2023-04-25 12:04:40.0001|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:40.1934|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15326 from endpoint posts and resource comments
+2023-04-25 12:04:40.2117|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:40.3892|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:40.4755|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15326 from endpoint posts and resource comments
+2023-04-25 12:04:40.5691|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:40.6612|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15326 from endpoint posts and resource comments
+2023-04-25 12:04:40.6612|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188493/posts
+2023-04-25 12:04:40.6612|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15169/comments
+2023-04-25 12:04:40.7599|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:40.8674|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:40.9432|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:41.0501|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:41.1326|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:41.1326|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15168/comments
+2023-04-25 12:04:41.2223|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:41.3292|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:41.4737|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:41.5203|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:41.7249|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:41.7588|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:41.9182|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:41.9791|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:42.0976|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:42.1641|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:42.3503|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:42.3503|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:42.5319|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:42.6388|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:42.7218|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:42.8943|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:42.8943|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:42.8943|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15168/comments
+2023-04-25 12:04:43.0793|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15165 from endpoint posts and resource comments
+2023-04-25 12:04:43.0793|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:43.2497|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:43.2582|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:04:43.2582|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:04:43.2582|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:04:43.2582|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:04:43.2582|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:04:43.2582|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:04:43.2582|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:04:43.2699|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:04:43.2699|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:43.2699|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:04:43.2699|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:04:43.4509|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:43.5884|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:43.7536|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:43.9433|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:44.1176|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:44.3098|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:44.5216|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:44.7318|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15327 from endpoint posts and resource comments
+2023-04-25 12:04:44.7318|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1197332/posts
+2023-04-25 12:04:44.7318|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15305/comments
+2023-04-25 12:04:44.7318|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15301/comments
+2023-04-25 12:04:44.7318|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15298/comments
+2023-04-25 12:04:44.9244|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:45.0956|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:45.2862|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:45.4739|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:45.4739|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15295/comments
+2023-04-25 12:04:45.6490|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:45.8311|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:46.0076|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:46.1868|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:46.3793|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:46.5768|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:46.7971|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:46.9390|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:47.1175|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:47.2990|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:47.2990|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15293/comments
+2023-04-25 12:04:47.4723|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:47.6538|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:47.8358|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:48.0152|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:48.2116|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:48.4346|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:48.6363|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:48.8363|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:49.0214|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:49.2209|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15328 from endpoint posts and resource comments
+2023-04-25 12:04:49.2209|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188489/posts
+2023-04-25 12:04:49.2209|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15164/comments
+2023-04-25 12:04:49.4345|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:49.4345|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1197332/posts
+2023-04-25 12:04:49.4345|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15305/comments
+2023-04-25 12:04:49.4345|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15301/comments
+2023-04-25 12:04:49.4345|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15298/comments
+2023-04-25 12:04:49.6151|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:49.8001|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:49.9902|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:50.1784|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:50.1784|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15295/comments
+2023-04-25 12:04:50.3552|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:50.5699|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:50.8033|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:50.9835|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:51.1874|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:51.3853|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:51.5566|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:51.7373|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:51.9174|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:52.1020|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:52.1020|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15293/comments
+2023-04-25 12:04:52.2966|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:52.4869|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:52.7104|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:52.9237|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:53.1401|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:53.3185|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:53.4621|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:53.6466|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:53.8363|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:54.0119|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15329 from endpoint posts and resource comments
+2023-04-25 12:04:54.0119|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188490/posts
+2023-04-25 12:04:54.0119|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15165/comments
+2023-04-25 12:04:54.0119|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188488/posts
+2023-04-25 12:04:54.0119|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188495/posts
+2023-04-25 12:04:54.0119|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15170/comments
+2023-04-25 12:04:54.2114|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15330 from endpoint posts and resource comments
+2023-04-25 12:04:54.4067|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15330 from endpoint posts and resource comments
+2023-04-25 12:04:54.5806|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15330 from endpoint posts and resource comments
+2023-04-25 12:04:54.7556|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15330 from endpoint posts and resource comments
+2023-04-25 12:04:54.9472|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15330 from endpoint posts and resource comments
+2023-04-25 12:04:55.1245|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15330 from endpoint posts and resource comments
+2023-04-25 12:04:55.3134|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15330 from endpoint posts and resource comments
+2023-04-25 12:04:55.4957|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15330 from endpoint posts and resource comments
+2023-04-25 12:04:55.6914|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15330 from endpoint posts and resource comments
+2023-04-25 12:04:55.8624|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15330 from endpoint posts and resource comments
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:04:56.0326|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:22:52.2957|INFO|IntegrateExternalAPI.Service.ExternalApiService|Getting all user details
+2023-04-25 12:22:53.0410|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188491
+2023-04-25 12:22:53.0410|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188493
+2023-04-25 12:22:53.0410|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188490
+2023-04-25 12:22:53.0410|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188492
+2023-04-25 12:22:53.0410|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188485
+2023-04-25 12:22:53.0410|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188489
+2023-04-25 12:22:53.0410|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188488
+2023-04-25 12:22:53.0410|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188487
+2023-04-25 12:22:53.0410|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188484
+2023-04-25 12:22:53.0410|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188483
+2023-04-25 12:22:54.1504|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:22:54.1504|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:22:54.1755|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:22:54.1755|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:22:54.1950|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:22:54.1950|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:22:54.2394|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:22:54.2394|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:22:54.2394|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:54.2394|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:22:54.2394|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:22:54.2770|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:22:54.5983|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:22:54.7846|INFO|IntegrateExternalAPI.Service.ExternalApiService|Generating Random post for a user
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:22:55.1943|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:22:55.2051|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188483 from endpoint users and resource posts
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:22:55.3069|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:22:55.4381|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:22:55.5447|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:22:55.5447|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:22:55.5447|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:22:55.5447|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.5449|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.5500|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:22:55.5500|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:22:55.6290|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188483 from endpoint users and resource posts
+2023-04-25 12:22:55.7757|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:22:55.7757|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:22:55.7757|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:22:55.7757|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:22:55.7757|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:22:55.7757|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:22:55.7757|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:22:55.7757|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:22:55.7757|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.7757|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:22:55.7765|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:22:55.7765|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 12:22:56.0066|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188483 from endpoint users and resource posts
+2023-04-25 12:22:56.3755|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188483 from endpoint users and resource posts
+2023-04-25 12:22:56.7436|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188483 from endpoint users and resource posts
+2023-04-25 12:22:56.7507|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188483/posts
+2023-04-25 12:22:56.7581|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188490/posts
+2023-04-25 12:22:56.7581|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15165/comments
+2023-04-25 12:22:57.1356|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15331 from endpoint posts and resource comments
+2023-04-25 12:22:57.5047|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15331 from endpoint posts and resource comments
+2023-04-25 12:22:57.8792|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15331 from endpoint posts and resource comments
+2023-04-25 12:22:58.2565|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15331 from endpoint posts and resource comments
+2023-04-25 12:22:58.6282|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15331 from endpoint posts and resource comments
+2023-04-25 12:22:59.0085|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15331 from endpoint posts and resource comments
+2023-04-25 12:22:59.3761|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15331 from endpoint posts and resource comments
+2023-04-25 12:22:59.7478|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15331 from endpoint posts and resource comments
+2023-04-25 12:23:00.1152|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15331 from endpoint posts and resource comments
+2023-04-25 12:23:00.5002|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15331 from endpoint posts and resource comments
+2023-04-25 12:23:00.5002|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188483/posts
+2023-04-25 12:23:00.5002|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188484/posts
+2023-04-25 12:23:00.5002|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15159/comments
+2023-04-25 12:23:00.8767|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:01.2525|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:01.2525|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15158/comments
+2023-04-25 12:23:01.6222|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:01.9892|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:01.9892|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188492/posts
+2023-04-25 12:23:01.9892|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15167/comments
+2023-04-25 12:23:02.3608|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:02.7285|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:02.7285|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188488/posts
+2023-04-25 12:23:02.7285|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15330/comments
+2023-04-25 12:23:03.1145|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:03.4788|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:03.8487|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:04.2318|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:04.6132|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:04.9883|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:05.3670|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:05.7512|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:06.1429|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:06.5293|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:06.5293|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15329/comments
+2023-04-25 12:23:06.9013|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:07.2900|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:07.6544|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:08.0670|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:08.4683|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:08.8523|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:09.2241|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:09.6058|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:09.9894|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:10.3755|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:10.3755|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15328/comments
+2023-04-25 12:23:10.7548|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:11.1272|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:11.4955|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:11.9114|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:12.2887|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:12.6630|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:13.0329|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:13.4493|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:13.8614|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:14.2343|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:14.2343|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15327/comments
+2023-04-25 12:23:14.6101|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:14.9807|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:15.3302|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:15.7137|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:16.0839|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:16.4540|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:16.8264|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:17.2060|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:17.5954|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:17.9741|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:17.9741|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15326/comments
+2023-04-25 12:23:18.3232|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:18.6640|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:19.0338|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:19.4004|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:19.7680|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:20.1346|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:20.5182|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:20.9092|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:21.2951|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:21.6740|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15332 from endpoint posts and resource comments
+2023-04-25 12:23:21.6740|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188483/posts
+2023-04-25 12:23:21.6740|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188493/posts
+2023-04-25 12:23:21.6740|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15169/comments
+2023-04-25 12:23:22.0399|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:22.4183|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:22.7735|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:23.1500|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:23.5121|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:23.8835|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:24.2685|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:24.6395|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:25.0297|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:25.4457|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:25.4457|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15168/comments
+2023-04-25 12:23:25.8293|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:26.2038|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:26.5698|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:26.9298|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:27.2641|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:27.6338|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:28.0042|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:28.3818|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:28.7526|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:29.1203|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15333 from endpoint posts and resource comments
+2023-04-25 12:23:29.1203|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188490/posts
+2023-04-25 12:23:29.1203|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15165/comments
+2023-04-25 12:23:29.4884|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15334 from endpoint posts and resource comments
+2023-04-25 12:23:29.8630|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15334 from endpoint posts and resource comments
+2023-04-25 12:23:30.2308|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15334 from endpoint posts and resource comments
+2023-04-25 12:23:30.6161|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15334 from endpoint posts and resource comments
+2023-04-25 12:23:30.9982|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15334 from endpoint posts and resource comments
+2023-04-25 12:23:31.3682|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15334 from endpoint posts and resource comments
+2023-04-25 12:23:31.7458|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15334 from endpoint posts and resource comments
+2023-04-25 12:23:32.1355|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15334 from endpoint posts and resource comments
+2023-04-25 12:23:32.5222|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15334 from endpoint posts and resource comments
+2023-04-25 12:23:32.9017|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15334 from endpoint posts and resource comments
+2023-04-25 12:23:32.9017|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188491/posts
+2023-04-25 12:23:32.9017|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15166/comments
+2023-04-25 12:23:33.2838|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:33.6509|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:33.6509|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188484/posts
+2023-04-25 12:23:33.6509|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15159/comments
+2023-04-25 12:23:34.0217|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:34.3952|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:34.3952|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15158/comments
+2023-04-25 12:23:34.7619|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:35.1474|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:35.1474|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188489/posts
+2023-04-25 12:23:35.1474|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15164/comments
+2023-04-25 12:23:35.5404|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:35.5404|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188492/posts
+2023-04-25 12:23:35.5404|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15167/comments
+2023-04-25 12:23:35.9378|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:36.3202|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:36.3202|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188487/posts
+2023-04-25 12:23:36.3202|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15163/comments
+2023-04-25 12:23:36.3202|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15162/comments
+2023-04-25 12:23:36.6981|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:37.0339|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15335 from endpoint posts and resource comments
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating workbook part and workbook...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding worksheet to the workbook...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row to the sheet...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding user data to the sheet...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for post properties...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comment data to the sheet...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding header row for comment properties...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Adding post and comments data to the sheet...
+2023-04-25 12:23:37.3995|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:51:52.4188|INFO|IntegrateExternalAPI.Service.ExternalApiService|Getting all user details
+2023-04-25 14:51:53.7811|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188480
+2023-04-25 14:51:53.7811|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188483
+2023-04-25 14:51:53.7811|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188479
+2023-04-25 14:51:53.7811|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188478
+2023-04-25 14:51:53.7811|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188482
+2023-04-25 14:51:53.7811|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188484
+2023-04-25 14:51:53.7811|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188476
+2023-04-25 14:51:53.7811|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188481
+2023-04-25 14:51:53.7848|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188475
+2023-04-25 14:51:53.7848|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188474
+2023-04-25 14:51:54.2370|INFO|IntegrateExternalAPI.Service.ExternalApiService|Generating Random post for a user
+2023-04-25 14:51:54.4613|INFO|IntegrateExternalAPI.Service.ExternalApiService|Generating Random post for a user
+2023-04-25 14:51:54.5206|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188480 from endpoint users and resource posts
+2023-04-25 14:51:54.6510|INFO|IntegrateExternalAPI.Service.ExternalApiService|Generating Random Comments for a user
+2023-04-25 14:51:54.7401|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188479 from endpoint users and resource posts
+2023-04-25 14:51:54.8202|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188480 from endpoint users and resource posts
+2023-04-25 14:51:54.8231|INFO|IntegrateExternalAPI.Service.ExternalApiService|Generating Random post for a user
+2023-04-25 14:51:54.9627|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:51:55.0000|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:51:55.0309|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188479 from endpoint users and resource posts
+2023-04-25 14:51:55.0451|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:51:55.0814|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188474 from endpoint users and resource posts
+2023-04-25 14:51:55.1585|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188480 from endpoint users and resource posts
+2023-04-25 14:51:55.2202|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:51:55.2202|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:51:55.2202|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:51:55.3774|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188479 from endpoint users and resource posts
+2023-04-25 14:51:55.3822|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188480 from endpoint users and resource posts
+2023-04-25 14:51:55.4285|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188474 from endpoint users and resource posts
+2023-04-25 14:51:55.6857|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:55.6857|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188474 from endpoint users and resource posts
+2023-04-25 14:51:55.6918|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188480 from endpoint users and resource posts
+2023-04-25 14:51:55.6918|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188483/posts
+2023-04-25 14:51:55.6918|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15335/comments
+2023-04-25 14:51:55.6918|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:51:55.6918|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:51:55.6918|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:51:55.6918|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188479 from endpoint users and resource posts
+2023-04-25 14:51:55.9207|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:51:55.9207|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:51:55.9207|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:51:55.9337|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:55.9411|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:55.9774|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188474 from endpoint users and resource posts
+2023-04-25 14:51:55.9828|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188479 from endpoint users and resource posts
+2023-04-25 14:51:55.9828|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188476/posts
+2023-04-25 14:51:55.9828|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15151/comments
+2023-04-25 14:51:56.1659|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:56.1783|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:56.2016|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:56.2214|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 1188474 from endpoint users and resource posts
+2023-04-25 14:51:56.2214|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188476/posts
+2023-04-25 14:51:56.2214|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15151/comments
+2023-04-25 14:51:56.3243|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:51:56.3243|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:51:56.3243|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:51:56.3880|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:56.4035|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:56.4035|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:56.4367|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:56.4367|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188476/posts
+2023-04-25 14:51:56.4367|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15151/comments
+2023-04-25 14:51:56.6107|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:56.6380|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:56.6830|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:56.6830|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:56.6830|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188482/posts
+2023-04-25 14:51:56.6830|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15157/comments
+2023-04-25 14:51:56.8758|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:56.8758|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:56.8758|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:56.8758|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188480/posts
+2023-04-25 14:51:56.8758|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188480/posts
+2023-04-25 14:51:56.8758|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188483/posts
+2023-04-25 14:51:56.8758|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15335/comments
+2023-04-25 14:51:56.9301|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:57.0923|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:57.1103|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:57.1397|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:57.1593|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:57.1593|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188479/posts
+2023-04-25 14:51:57.1593|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188482/posts
+2023-04-25 14:51:57.1593|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15157/comments
+2023-04-25 14:51:57.3217|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:57.3217|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:57.3506|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:57.3769|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:57.4780|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:57.5186|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:57.5446|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:57.6305|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:57.6305|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188480/posts
+2023-04-25 14:51:57.6305|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188476/posts
+2023-04-25 14:51:57.6305|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15151/comments
+2023-04-25 14:51:57.6922|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:57.7476|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:57.7476|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15334/comments
+2023-04-25 14:51:57.8338|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:57.8869|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:57.9332|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:57.9332|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15334/comments
+2023-04-25 14:51:58.0146|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:58.1366|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:58.1366|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188481/posts
+2023-04-25 14:51:58.1366|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15156/comments
+2023-04-25 14:51:58.1514|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:58.2039|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:58.4546|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:58.4546|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:58.5844|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:58.5951|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:58.6291|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:58.7924|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:58.7924|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15155/comments
+2023-04-25 14:51:58.8320|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:58.9651|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:58.9779|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15393 from endpoint posts and resource comments
+2023-04-25 14:51:58.9779|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188484/posts
+2023-04-25 14:51:58.9779|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15159/comments
+2023-04-25 14:51:59.1042|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:59.1356|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:51:59.1356|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:51:59.1356|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:51:59.3824|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:59.4199|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:51:59.4199|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:59.4553|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:59.5889|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:59.6241|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:51:59.6241|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15158/comments
+2023-04-25 14:51:59.6241|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:59.6616|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:51:59.7824|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:51:59.8233|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:51:59.8349|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:51:59.8349|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15334/comments
+2023-04-25 14:51:59.8914|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:00.0316|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:00.0316|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:00.0682|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:00.0682|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188483/posts
+2023-04-25 14:52:00.0682|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15335/comments
+2023-04-25 14:52:00.1059|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:00.2976|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:00.2976|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:00.2976|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:00.3342|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:00.7014|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:00.7014|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:00.7014|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15333/comments
+2023-04-25 14:52:00.7014|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:00.7014|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:01.1171|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:01.1171|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:01.1171|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:01.1171|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:01.1171|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15333/comments
+2023-04-25 14:52:01.5220|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:01.5220|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:01.5220|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:01.5220|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:01.7485|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:01.7561|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:01.7780|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:01.7780|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:02.1404|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:02.1404|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:02.1404|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:02.1404|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:02.4487|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:02.4487|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:02.4487|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:02.4487|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:02.7506|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:02.7506|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:02.7506|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:02.7506|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:03.0575|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:03.0575|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:03.0575|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15333/comments
+2023-04-25 14:52:03.0575|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:03.0575|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:03.4668|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:03.4668|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15334/comments
+2023-04-25 14:52:03.4668|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:03.4668|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:03.4668|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:03.6839|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:03.7247|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:03.7247|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:03.7247|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:03.8828|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:03.9172|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:03.9411|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:03.9411|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15332/comments
+2023-04-25 14:52:03.9462|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:04.0652|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:04.1182|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:04.1358|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:04.1984|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:04.1984|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15332/comments
+2023-04-25 14:52:04.2781|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:04.2781|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:04.3444|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:04.4080|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:04.4656|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:04.4791|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:04.5627|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:04.6223|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:04.6655|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:04.6655|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:04.7713|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:04.8388|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:04.8518|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:04.9149|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:05.0127|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:05.0311|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:05.0804|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:05.1057|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:05.2116|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:05.2648|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:05.3039|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:05.3039|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15332/comments
+2023-04-25 14:52:05.3524|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:05.4823|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:05.5108|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:05.5490|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:05.5933|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:05.9273|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:05.9273|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:05.9273|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15333/comments
+2023-04-25 14:52:05.9358|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:06.2331|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:06.2331|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:06.3456|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:06.4190|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:06.4190|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15331/comments
+2023-04-25 14:52:06.5525|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:06.6519|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:06.7074|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:06.7531|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:06.9550|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:06.9919|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:07.0350|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:07.0398|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:07.1876|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:07.1876|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:07.1876|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15331/comments
+2023-04-25 14:52:07.2344|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:07.2344|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:07.4657|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:07.4657|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:07.4920|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:07.5022|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:07.7727|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:07.7727|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:07.7727|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:07.7727|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:07.9775|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:07.9775|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:08.0226|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:08.0226|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:08.2840|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:08.2877|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:08.2877|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15331/comments
+2023-04-25 14:52:08.2877|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:08.2877|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:08.5881|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:08.5910|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:08.5910|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:08.6156|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:08.8957|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:08.8957|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:08.8957|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:08.8957|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:08.8957|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15332/comments
+2023-04-25 14:52:09.3076|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:09.3076|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15154 from endpoint posts and resource comments
+2023-04-25 14:52:09.3076|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:09.3076|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:09.7183|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:09.7183|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:09.7183|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:09.7183|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:52:09.7183|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:52:09.7183|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:52:09.9179|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:09.9471|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:09.9471|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:10.2312|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:10.2312|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15389 from endpoint posts and resource comments
+2023-04-25 14:52:10.2312|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:10.2312|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188474/posts
+2023-04-25 14:52:10.2312|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188476/posts
+2023-04-25 14:52:10.2312|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15151/comments
+2023-04-25 14:52:10.4311|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:10.4311|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:10.4311|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15391 from endpoint posts and resource comments
+2023-04-25 14:52:10.6386|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:10.6728|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:10.6884|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15391 from endpoint posts and resource comments
+2023-04-25 14:52:10.6884|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188484/posts
+2023-04-25 14:52:10.6884|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15159/comments
+2023-04-25 14:52:10.9439|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15391 from endpoint posts and resource comments
+2023-04-25 14:52:10.9439|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:10.9439|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:11.1477|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15390 from endpoint posts and resource comments
+2023-04-25 14:52:11.1477|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188475/posts
+2023-04-25 14:52:11.1477|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15150/comments
+2023-04-25 14:52:11.1579|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:11.1849|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15391 from endpoint posts and resource comments
+2023-04-25 14:52:11.1849|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15158/comments
+2023-04-25 14:52:11.3184|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:11.4235|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:11.4719|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:11.4719|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15331/comments
+2023-04-25 14:52:11.4719|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15391 from endpoint posts and resource comments
+2023-04-25 14:52:11.6639|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:11.6639|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15149/comments
+2023-04-25 14:52:11.6639|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:11.6639|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15391 from endpoint posts and resource comments
+2023-04-25 14:52:11.6639|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188474/posts
+2023-04-25 14:52:11.6639|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188478/posts
+2023-04-25 14:52:11.6639|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15154/comments
+2023-04-25 14:52:11.6639|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188475/posts
+2023-04-25 14:52:11.6639|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15150/comments
+2023-04-25 14:52:11.7997|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:11.8933|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15391 from endpoint posts and resource comments
+2023-04-25 14:52:11.9224|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:11.9909|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:12.0334|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15391 from endpoint posts and resource comments
+2023-04-25 14:52:12.0334|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15149/comments
+2023-04-25 14:52:12.0978|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:12.0978|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188475/posts
+2023-04-25 14:52:12.0978|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15150/comments
+2023-04-25 14:52:12.1941|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:12.2290|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15391 from endpoint posts and resource comments
+2023-04-25 14:52:12.3206|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:12.4030|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:12.4608|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15391 from endpoint posts and resource comments
+2023-04-25 14:52:12.4608|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188484/posts
+2023-04-25 14:52:12.4608|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15159/comments
+2023-04-25 14:52:12.5692|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:12.5692|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15149/comments
+2023-04-25 14:52:12.5841|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:12.6513|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15394 from endpoint posts and resource comments
+2023-04-25 14:52:12.7424|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:12.7635|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:12.8213|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15394 from endpoint posts and resource comments
+2023-04-25 14:52:12.8213|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15158/comments
+2023-04-25 14:52:12.9084|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:12.9084|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188478/posts
+2023-04-25 14:52:12.9084|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15154/comments
+2023-04-25 14:52:12.9084|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188478/posts
+2023-04-25 14:52:12.9084|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15154/comments
+2023-04-25 14:52:12.9084|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188481/posts
+2023-04-25 14:52:12.9084|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15156/comments
+2023-04-25 14:52:12.9453|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:12.9888|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15394 from endpoint posts and resource comments
+2023-04-25 14:52:13.1285|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:13.1695|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:13.1793|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15394 from endpoint posts and resource comments
+2023-04-25 14:52:13.1793|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188480/posts
+2023-04-25 14:52:13.1793|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188484/posts
+2023-04-25 14:52:13.1793|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15159/comments
+2023-04-25 14:52:13.3327|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:13.3327|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15155/comments
+2023-04-25 14:52:13.3812|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15394 from endpoint posts and resource comments
+2023-04-25 14:52:13.3938|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15397 from endpoint posts and resource comments
+2023-04-25 14:52:13.3938|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188476/posts
+2023-04-25 14:52:13.3938|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15151/comments
+2023-04-25 14:52:13.5220|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15392 from endpoint posts and resource comments
+2023-04-25 14:52:13.5220|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188475/posts
+2023-04-25 14:52:13.5220|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15150/comments
+2023-04-25 14:52:13.5686|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15394 from endpoint posts and resource comments
+2023-04-25 14:52:13.5686|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15158/comments
+2023-04-25 14:52:13.5686|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:13.7118|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:13.7639|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:13.7639|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188483/posts
+2023-04-25 14:52:13.7639|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15335/comments
+2023-04-25 14:52:13.7786|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15394 from endpoint posts and resource comments
+2023-04-25 14:52:13.8943|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:13.8943|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15149/comments
+2023-04-25 14:52:13.9778|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15394 from endpoint posts and resource comments
+2023-04-25 14:52:13.9778|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188482/posts
+2023-04-25 14:52:13.9778|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15157/comments
+2023-04-25 14:52:13.9985|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:14.0719|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:14.1576|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15394 from endpoint posts and resource comments
+2023-04-25 14:52:14.1756|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:14.2478|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:14.2478|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188483/posts
+2023-04-25 14:52:14.2478|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15335/comments
+2023-04-25 14:52:14.3636|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15394 from endpoint posts and resource comments
+2023-04-25 14:52:14.3636|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188474/posts
+2023-04-25 14:52:14.3636|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188475/posts
+2023-04-25 14:52:14.3636|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15150/comments
+2023-04-25 14:52:14.3636|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:14.4337|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:14.5686|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:14.5686|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:14.6458|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:14.7645|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:14.7645|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:14.7645|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15149/comments
+2023-04-25 14:52:14.8707|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:14.9395|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:14.9718|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:15.0461|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:15.2290|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:15.2290|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:15.2290|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:15.2290|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188474/posts
+2023-04-25 14:52:15.2290|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188474/posts
+2023-04-25 14:52:15.2290|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188481/posts
+2023-04-25 14:52:15.2290|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15156/comments
+2023-04-25 14:52:15.3644|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:15.4571|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:15.4812|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:15.5700|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:15.6438|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:15.6582|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:15.6582|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15155/comments
+2023-04-25 14:52:15.7494|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:15.7494|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15334/comments
+2023-04-25 14:52:15.8655|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:15.9003|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:15.9003|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188475/posts
+2023-04-25 14:52:15.9003|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15150/comments
+2023-04-25 14:52:15.9404|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:16.0541|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:16.0932|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:16.1337|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:16.2683|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:16.2683|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15149/comments
+2023-04-25 14:52:16.2893|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:16.2893|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15334/comments
+2023-04-25 14:52:16.3533|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:16.4739|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:16.5083|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:16.5630|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:16.6728|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15396 from endpoint posts and resource comments
+2023-04-25 14:52:16.6728|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188476/posts
+2023-04-25 14:52:16.6728|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15151/comments
+2023-04-25 14:52:16.6865|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:16.7540|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:16.8694|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15398 from endpoint posts and resource comments
+2023-04-25 14:52:16.8800|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:16.9498|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:17.0563|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:17.0563|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15398 from endpoint posts and resource comments
+2023-04-25 14:52:17.0563|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188476/posts
+2023-04-25 14:52:17.0563|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15151/comments
+2023-04-25 14:52:17.1367|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:17.2449|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15398 from endpoint posts and resource comments
+2023-04-25 14:52:17.2449|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:17.3197|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:17.4167|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:17.4482|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15398 from endpoint posts and resource comments
+2023-04-25 14:52:17.4482|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188478/posts
+2023-04-25 14:52:17.4482|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15154/comments
+2023-04-25 14:52:17.4482|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188478/posts
+2023-04-25 14:52:17.4482|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15154/comments
+2023-04-25 14:52:17.4482|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188484/posts
+2023-04-25 14:52:17.4482|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15159/comments
+2023-04-25 14:52:17.5155|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:17.5985|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:17.6390|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15398 from endpoint posts and resource comments
+2023-04-25 14:52:17.6883|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:17.6883|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15333/comments
+2023-04-25 14:52:17.7760|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:17.8264|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15398 from endpoint posts and resource comments
+2023-04-25 14:52:17.8264|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15158/comments
+2023-04-25 14:52:17.8856|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:17.9618|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:18.0190|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15398 from endpoint posts and resource comments
+2023-04-25 14:52:18.0581|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:18.1462|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:18.1462|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15333/comments
+2023-04-25 14:52:18.1971|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15398 from endpoint posts and resource comments
+2023-04-25 14:52:18.1971|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188478/posts
+2023-04-25 14:52:18.1971|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15154/comments
+2023-04-25 14:52:18.1971|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/users/1188484/posts
+2023-04-25 14:52:18.1971|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15159/comments
+2023-04-25 14:52:18.2421|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:18.3307|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:18.3767|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15398 from endpoint posts and resource comments
+2023-04-25 14:52:18.4200|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:19.6242|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:52:19.7305|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15398 from endpoint posts and resource comments
+2023-04-25 14:52:19.7305|INFO|IntegrateExternalAPI.Repository.ApiClient|Retrieved cached response for /public/v2/posts/15158/comments
+2023-04-25 14:52:19.7592|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15399 from endpoint posts and resource comments
+2023-04-25 14:52:19.8030|INFO|IntegrateExternalAPI.Repository.ExternalApiRepository|Successfully created list of Post with ID 15395 from endpoint posts and resource comments
+2023-04-25 14:54:24.2436|INFO|IntegrateExternalAPI.Service.ExternalApiService|Getting all user details
+2023-04-25 14:54:24.9762|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188484
+2023-04-25 14:54:24.9762|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188479
+2023-04-25 14:54:24.9762|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188482
+2023-04-25 14:54:24.9762|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188478
+2023-04-25 14:54:24.9762|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188481
+2023-04-25 14:54:24.9762|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188480
+2023-04-25 14:54:24.9762|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188476
+2023-04-25 14:54:24.9762|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188475
+2023-04-25 14:54:24.9762|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188474
+2023-04-25 14:54:24.9762|INFO|IntegrateExternalAPI.Service.ExternalApiService|Retrieving details for user with ID 1188473
+2023-04-25 14:54:26.5420|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:54:26.5420|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:54:26.5420|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:54:26.5860|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:54:26.5860|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:54:26.5860|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:54:26.6389|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:54:26.6389|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:54:26.6389|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:54:26.7633|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:54:26.7633|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:54:26.7633|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:54:26.8583|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:54:26.8583|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:54:26.8583|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:54:27.0430|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:54:27.0430|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:54:27.0430|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:54:27.1476|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:54:27.1476|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:54:27.1484|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:54:27.1860|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:54:27.1860|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:54:27.1860|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:54:27.7501|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:54:27.7501|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:54:27.7501|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
+2023-04-25 14:54:28.6080|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating first sheet...
+2023-04-25 14:54:28.6080|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating second sheet...
+2023-04-25 14:54:28.6080|INFO|IntegrateExternalAPI.Data.ExportToExcel|Creating Third sheet...
